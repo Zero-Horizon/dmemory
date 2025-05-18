@@ -1,7 +1,3 @@
-Вот строгая и лаконичная версия `README.md` на английском без эмодзи:
-
----
-
 # Memory
 
 **Memory** is a lightweight C++ wrapper for interacting with a custom Windows kernel-mode driver. It allows reading and writing memory of external processes by communicating with the driver through device control codes.
