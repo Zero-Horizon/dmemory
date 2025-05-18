@@ -6,9 +6,6 @@
 
 * Read memory from an external process
 * Write memory to an external process
-* Retrieve base address of loaded modules
-* Simple and type-safe templated API
-* Works via a custom kernel-mode driver (e.g. `ZeroDriver`)
 
 ## Requirements
 
